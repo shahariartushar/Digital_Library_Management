@@ -1,0 +1,69 @@
+D:\29137\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\29137\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\29137\Projects\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.LoginForm.resources
+D:\29137\Projects\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.MemberForm.resources
+D:\29137\Projects\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.Properties.Resources.resources
+D:\29137\Projects\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.csproj.GenerateResource.Cache
+D:\29137\Projects\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.exe
+D:\29137\Projects\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.pdb
+D:\ADMS_Project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+D:\ADMS_Project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\ADMS_Project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\ADMS_Project\LibraryManagement\LibraryManagement\bin\Debug\Oracle.DataAccess.dll
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.LibraryForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.LoginForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.MemberForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.MemberRegisterForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.Properties.Resources.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.PublisherCreationFrom.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemoveBookSelfFrom.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateGeneralBookFrom.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.csproj.GenerateResource.Cache
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.exe
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.pdb
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateQuantityBookFrom.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemoveMemberForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateAuthorForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateBookSelfForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdatePublisherForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreateAdminFrom.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreateAuthorForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreateBookFrom.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreateBookSelfFrom.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemoveAuthorForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemoveBookForm.resources
+D:\ADMS_Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemovePublisherForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.exe
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.pdb
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\bin\Debug\Oracle.DataAccess.dll
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreateAdminFrom.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreateAuthorForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreateBookFrom.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreateBookSelfFrom.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.LibraryForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.LoginForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.MemberForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.MemberRegisterForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.Properties.Resources.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.CreatePublisherFrom.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemoveAuthorForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemoveBookForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemoveBookSelfFrom.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemoveMemberForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.RemovePublisherForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateAuthorForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateBookSelfForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateGeneralBookFrom.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdatePublisherForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateQuantityBookFrom.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.csproj.GenerateResource.Cache
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.SearchBookForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.test.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.UpdateMemberForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.SearchMemberForm.resources
+D:\Tushar\tush Project\LibraryManagement\LibraryManagement\obj\x86\Debug\LibraryManagement.ViewAllMemberForm.resources
